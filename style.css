@@ -351,4 +351,17 @@ textarea {
         margin: -30px auto;
         background-color: transparent;
     }
+    .fh2 {
+        font-size    : 30px;
+    }
+    .ah2 {
+        font-size: 30px;
+    }
+    
+    .ah3 {
+        font-size: 30px;
+    }
+    #client .carousel-item img {
+        width        : 50%;
+    }
 }
